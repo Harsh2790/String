@@ -1,4 +1,4 @@
-mystr = "Mississippi"
+mystr = "mississippi"
 print(mystr.count("i"))
 print(mystr.count("s"))
 print(mystr.count("p"))
